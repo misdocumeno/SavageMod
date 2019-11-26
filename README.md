@@ -1,5 +1,7 @@
 # $AVAGEMOD
 
+Based on [NextMod 1.0.4](https://github.com/spoon-l4d2/NextMod)
+
 ***Version 0.1.0***
 
 ### Weapons
